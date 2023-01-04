@@ -3,4 +3,8 @@ Yeison Yesid Diaz tiene 40 años y nació en Santa Marta-Magdalena Colombia
 Estudie Ingenieria de Minas en Medellin Colombia
 Hoy hablaremos de su vida y sus estudio de Maestria en Recursos Minerales pendiente de culminar
 En fotos parece muy delgado pero en la realida no es tan delgado
+<<<<<<< HEAD
 Master 1
+=======
+Experimento 1
+>>>>>>> 2d1d279 (Exp1)
