@@ -11,6 +11,4 @@ El verdadero amor por las buenas practicas
 Trucos muy locos del profesor
 Incluye ejemplos en Windows, Linux y Mac
 Disponible para todas las edades
-Creado por Yedi83
-
 Y como un amable recordatorio:** Este readme.md es un chiste. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.**
